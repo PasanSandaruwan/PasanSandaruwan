@@ -67,20 +67,22 @@
   </a>
 </p>
 <br>
+<!--
 <h3 align="center"> 🌐 Connect with Me:</h3>
 <p align="center">
-  <!-- LinkedIn -->
+  <!-- LinkedIn 
   <a href="www.linkedin.com/in/dilanka-sandeepa-gunathilaka-34907423b" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 
-  <!-- Facebook -->
+  <!-- Facebook 
   <a href="https://www.facebook.com/dilanka.sandeepa.3" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="40" height="40"/>
   </a>
 
-  <!-- Instagram -->
+  <!-- Instagram 
   <a href="https://www.instagram.com/dila_x17/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
+-->
